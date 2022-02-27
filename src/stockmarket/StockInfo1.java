@@ -1,12 +1,12 @@
 package stockmarket;
 
-public class StockInfo {
+public class StockInfo1 {
 	private String stockName;
 	private String numberOfShare;
 	private String sharePrice;
 
 	// constructor
-	public StockInfo(String stockName, String numberOfShare, String sharePrice) {
+	public StockInfo1(String stockName, String numberOfShare, String sharePrice) {
 		super();
 		this.stockName = stockName;
 		this.numberOfShare = numberOfShare;
